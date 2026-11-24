@@ -1,6 +1,8 @@
 # pate
 Population Average Treatment Effect (PATE) Use pate (borrowr) With (In) R Software
 
+https://www.youtube.com/watch?v=pKFoLk1-ANk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
